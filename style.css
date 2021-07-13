@@ -1,0 +1,19 @@
+.links a {
+  color: #fff;
+  padding: 18px;
+}
+
+.links a:hover {
+  opacity: 0.8;
+}
+
+.links {
+  padding-top: 10px;
+  text-align: center;
+  padding: 30px;
+  background-color: rgb(3, 3, 77);
+}
+
+* {
+  margin: 0;
+}
