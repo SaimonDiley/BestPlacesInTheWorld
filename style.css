@@ -111,3 +111,9 @@ body {
   background-color: midnightblue;
   border: none;
 }
+
+#AboutTitle {
+  text-align: center;
+  padding: 18px;
+  font-size: 26px;
+}
